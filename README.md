@@ -6,3 +6,9 @@ Modern Academies Automation Software provide timely 21st century learning soluti
 # Challenges we ran into
 Modern Academies Automation Software use to manage strong admission, enrollment, courses, accounts, communication, student monitoring ,batches, enquirers, registrations, 
 fees, students, staff and It can generate fee receipts, fees reports, ID cards, completion certificates, etc.. This software also enables to modify and update the information whenever they require.This application enables to maintain the Academies details in a secure manner avoiding forgeries.
+
+# Technologies we used
+PHP, HTML, CSS,SQL, CodeIgniter , JavaScript, JavaScript JSON
+
+# Demo
+https://youtu.be/-OD8N5NivZY
